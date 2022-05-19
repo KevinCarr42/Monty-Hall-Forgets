@@ -16,7 +16,7 @@ If the door that Monty Hall opens has a goat behind it, what is the probability 
 ANSWER: 1 / 2
 
 ## Explanation:
-![alt text](https://github.com/KevinCarr42/MontyHallForgets/blob/main/MontyHallForgets-Solution.png)
+![alt text](https://github.com/KevinCarr42/Monty-Hall-Forgets/blob/main/MontyHallForgets-Solution.png)
 
 ## Why I Disagree
 
