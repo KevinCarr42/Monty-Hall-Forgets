@@ -4,9 +4,9 @@ Like the normal Monty Hall paradox, but this time he can't remember where the ca
 
 ## Original Question (from Perplexing Probabilities at Brilliant.org):
 
-Suppose again that there are 33 doors and 11 car, but now Monty Hall forgets which door the car is behind. Thus, after you choose your door, Monty Hall opens 11 of the 22 remaining doors at random. (This means that he might accidentally open the door with the car behind it, in which case you would have to start the game over.)
+Suppose again that there are 3 doors and 1 car, but now Monty Hall forgets which door the car is behind. Thus, after you choose your door, Monty Hall opens 1 of the 2 remaining doors at random. (This means that he might accidentally open the door with the car behind it, in which case you would have to start the game over.)
 
-Assume that Monty Hall is equally likely to place the car behind any of the 33 doors, and, after you have chosen your door, he is equally likely to open either of the 22 remaining doors (even if the car is behind one of them).
+Assume that Monty Hall is equally likely to place the car behind any of the 3 doors, and, after you have chosen your door, he is equally likely to open either of the 2 remaining doors (even if the car is behind one of them).
 
 If the door that Monty Hall opens has a goat behind it, what is the probability that you win if you switch?
 * 1 / 3
@@ -30,4 +30,4 @@ To confirm my logic, I calculated everything algorithmically using Python. My si
 
 ## Conclusion
 
-Please let me know if I am missing something. I asked Brilliant and they stick by their 1/2, but I just can't see it.
+Please let me know if I am missing something. I asked Brilliant and they stick by their 1/2, but I still think it's 2/3.
